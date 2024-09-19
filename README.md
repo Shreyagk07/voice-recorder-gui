@@ -1,4 +1,4 @@
-Voice Recorder using Python 🎤
+# Voice Recorder using Python 🎤
 A simple Voice Recorder built with Python using tkinter for the GUI and pyaudio for capturing audio. This tool allows you to record and save audio in .wav format with a single click.
 
 Features
